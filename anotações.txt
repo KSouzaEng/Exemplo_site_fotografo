@@ -1,0 +1,6 @@
+ <ul>
+            <li><a href="#">ENSAIOS</a></li>
+            <li><a href="#">EXPOSIÇÃO</a></li>
+            <li><a href="#">IFANTIL</a></li>
+            <li><a href="#">NATUREZA</a></li>
+          </ul>
